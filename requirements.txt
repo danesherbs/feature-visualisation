@@ -1,7 +1,5 @@
 torch
 torchvision
 torchinfo
-einops
 matplotlib
 numpy
-icecream
